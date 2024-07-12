@@ -22,17 +22,6 @@
   - VSCode
   - Node.js
 
-## 🌟 Projets
-
-### [Projet 1 : Site Web Immobilier](https://github.com/theosauval/real-estate-website)
-Création et développement d'un site web pour la gestion de biens immobiliers, utilisant les technologies front-end comme HTML, CSS, et JavaScript/jQuery. Ce projet met en avant mes compétences en développement web et mon sens du détail pour l'interface utilisateur.
-
-### [Projet 2 : Application de Gestion de Stock](https://github.com/theosauval/stock-management-app)
-Développement d'une application de gestion de stock pour Carrefour, incluant la gestion des stocks, le réapprovisionnement des rayons et l'interface utilisateur intuitive pour les employés.
-
-### [Projet 3 : Portfolio Personnel](https://github.com/theosauval/personal-portfolio)
-Mon portfolio personnel développé avec React et Tailwind CSS, présentant mes projets, compétences et parcours professionnel. Ce projet est une démonstration de mes compétences en développement front-end et design web.
-
 ## 📚 Formation
 
 - **Ynov Campus Lille (2022-2027)**
@@ -55,8 +44,7 @@ Mon portfolio personnel développé avec React et Tailwind CSS, présentant mes 
 ## 📫 Contact
 
 - **Email :** [theosauval.work@gmail.com](mailto:theosauval.work@gmail.com)
-- **LinkedIn :** [linkedin.com/in/theosauval](https://www.linkedin.com/in/theosauval)
-- **GitHub :** [github.com/theosauval](https://github.com/theosauval)
+- **LinkedIn :** [linkedin.com/in/theosauval](https://www.linkedin.com/in/theo-sauval-402884244/).
 
 ---
 
